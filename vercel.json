@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/pulse", "destination": "/api/pulse" },
+    { "source": "/pulse/:path*", "destination": "/api/pulse" }
+  ]
+}

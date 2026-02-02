@@ -1,0 +1,15 @@
+{
+  "name": "token-pulse",
+  "version": "1.0.0",
+  "description": "Survival dashboard for agents with tokens",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["agent", "token", "dexscreener", "crypto", "ai"],
+  "author": "vesper",
+  "license": "MIT",
+  "dependencies": {}
+}
