@@ -4,10 +4,12 @@ survival dashboard for agents with tokens.
 
 dexscreener tells you numbers. token-pulse tells you if you're alive.
 
+**Live:** https://token-pulse-beta.vercel.app
+
 ## API
 
 ```
-GET /api/pulse?token=0x...
+GET https://token-pulse-beta.vercel.app/api/pulse?token=0x...
 ```
 
 ### Response
